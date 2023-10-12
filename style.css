@@ -1,0 +1,68 @@
+nav.menu_lateral{
+    width: 300px;
+    height: 100%;
+
+    padding: 20px 0 40px 1%;
+    position:relative;
+    top:0;
+    left: 0;
+
+}
+
+.btn-expadir{
+    width: 100%;
+    padding-left:10px ;
+}
+.btn-expadir > i{
+    color: #fff;
+    font-size:24px;
+    cursor: pointer;
+
+}
+
+.btn-expadirs{
+    width: 100%;
+    padding-left:100px ;
+}
+.btn-expadir > i{
+    color: #fff;
+    font-size:24px;
+    cursor: pointer;
+
+}
+.titulo{
+    width: 10px;
+    background: #486;
+    font-size: 150%;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 200px; /* Largura do menu de navegação */
+    position: fixed;
+    top: 60px;
+    left: 0;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    display:ruby-base-container;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+p{
+    
+}
+/* Estilos para a área de conteúdo */
+.conteudo {
+    margin-left: 200px; /* Largura do menu de navegação */
+    padding: 20px;
+    text-align:left;
+}
